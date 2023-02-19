@@ -1,0 +1,533 @@
+-----------
+eps: 1, min_samples = 5
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 6
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 7
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 8
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 9
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 10
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 11
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 12
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 13
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 1, min_samples = 14
+Clusters: 1
+Points classifed as noise: 2233
+-----------
+eps: 11, min_samples = 5
+Clusters: 24
+Silhoutte score: 0.07183645591444791
+Points classifed as noise: 1707
+-----------
+eps: 11, min_samples = 6
+Clusters: 19
+Silhoutte score: 0.058993470428037806
+Points classifed as noise: 1816
+-----------
+eps: 11, min_samples = 7
+Clusters: 19
+Silhoutte score: 0.15109534577324105
+Points classifed as noise: 1892
+-----------
+eps: 11, min_samples = 8
+Clusters: 18
+Silhoutte score: 0.18331054806738428
+Points classifed as noise: 1962
+-----------
+eps: 11, min_samples = 9
+Clusters: 9
+Silhoutte score: 0.33366623472989254
+Points classifed as noise: 2054
+-----------
+eps: 11, min_samples = 10
+Clusters: 7
+Silhoutte score: 0.382079437839953
+Points classifed as noise: 2099
+-----------
+eps: 11, min_samples = 11
+Clusters: 5
+Silhoutte score: 0.5100888055302977
+Points classifed as noise: 2133
+-----------
+eps: 11, min_samples = 12
+Clusters: 4
+Silhoutte score: 0.5587850972588904
+Points classifed as noise: 2148
+-----------
+eps: 11, min_samples = 13
+Clusters: 5
+Silhoutte score: 0.45036280067903023
+Points classifed as noise: 2155
+-----------
+eps: 11, min_samples = 14
+Clusters: 3
+Silhoutte score: 0.6047322644921268
+Points classifed as noise: 2183
+-----------
+eps: 21, min_samples = 5
+Clusters: 26
+Silhoutte score: -0.09380311341248142
+Points classifed as noise: 480
+-----------
+eps: 21, min_samples = 6
+Clusters: 26
+Silhoutte score: 0.03386979614889778
+Points classifed as noise: 581
+-----------
+eps: 21, min_samples = 7
+Clusters: 28
+Silhoutte score: 0.16712468880568032
+Points classifed as noise: 723
+-----------
+eps: 21, min_samples = 8
+Clusters: 25
+Silhoutte score: 0.010812607590656026
+Points classifed as noise: 857
+-----------
+eps: 21, min_samples = 9
+Clusters: 27
+Silhoutte score: 0.3052202086084182
+Points classifed as noise: 980
+-----------
+eps: 21, min_samples = 10
+Clusters: 21
+Silhoutte score: 0.2579770233727665
+Points classifed as noise: 1126
+-----------
+eps: 21, min_samples = 11
+Clusters: 14
+Silhoutte score: 0.280497169688918
+Points classifed as noise: 1256
+-----------
+eps: 21, min_samples = 12
+Clusters: 10
+Silhoutte score: 0.21742892316749282
+Points classifed as noise: 1378
+-----------
+eps: 21, min_samples = 13
+Clusters: 6
+Silhoutte score: 0.20695225356405889
+Points classifed as noise: 1463
+-----------
+eps: 21, min_samples = 14
+Clusters: 5
+Silhoutte score: 0.2033544024735395
+Points classifed as noise: 1493
+-----------
+eps: 31, min_samples = 5
+Clusters: 5
+Silhoutte score: -0.29631494311115286
+Points classifed as noise: 121
+-----------
+eps: 31, min_samples = 6
+Clusters: 3
+Silhoutte score: 0.18651243342896118
+Points classifed as noise: 148
+-----------
+eps: 31, min_samples = 7
+Clusters: 2
+Points classifed as noise: 161
+-----------
+eps: 31, min_samples = 8
+Clusters: 2
+Points classifed as noise: 189
+-----------
+eps: 31, min_samples = 9
+Clusters: 3
+Silhoutte score: -0.1425159930363382
+Points classifed as noise: 204
+-----------
+eps: 31, min_samples = 10
+Clusters: 5
+Silhoutte score: -0.2502262804204788
+Points classifed as noise: 238
+-----------
+eps: 31, min_samples = 11
+Clusters: 4
+Silhoutte score: -0.19896331238640363
+Points classifed as noise: 273
+-----------
+eps: 31, min_samples = 12
+Clusters: 3
+Silhoutte score: 0.31116325270989337
+Points classifed as noise: 296
+-----------
+eps: 31, min_samples = 13
+Clusters: 2
+Points classifed as noise: 351
+-----------
+eps: 31, min_samples = 14
+Clusters: 2
+Points classifed as noise: 372
+-----------
+eps: 41, min_samples = 5
+Clusters: 2
+Points classifed as noise: 49
+-----------
+eps: 41, min_samples = 6
+Clusters: 2
+Points classifed as noise: 55
+-----------
+eps: 41, min_samples = 7
+Clusters: 2
+Points classifed as noise: 62
+-----------
+eps: 41, min_samples = 8
+Clusters: 3
+Silhoutte score: 0.20675955895219048
+Points classifed as noise: 70
+-----------
+eps: 41, min_samples = 9
+Clusters: 3
+Silhoutte score: 0.20803314295023856
+Points classifed as noise: 75
+-----------
+eps: 41, min_samples = 10
+Clusters: 2
+Points classifed as noise: 85
+-----------
+eps: 41, min_samples = 11
+Clusters: 2
+Points classifed as noise: 94
+-----------
+eps: 41, min_samples = 12
+Clusters: 2
+Points classifed as noise: 100
+-----------
+eps: 41, min_samples = 13
+Clusters: 2
+Points classifed as noise: 107
+-----------
+eps: 41, min_samples = 14
+Clusters: 2
+Points classifed as noise: 117
+-----------
+eps: 51, min_samples = 5
+Clusters: 3
+Silhoutte score: 0.7592101537742811
+Points classifed as noise: 25
+-----------
+eps: 51, min_samples = 6
+Clusters: 2
+Points classifed as noise: 35
+-----------
+eps: 51, min_samples = 7
+Clusters: 2
+Points classifed as noise: 37
+-----------
+eps: 51, min_samples = 8
+Clusters: 2
+Points classifed as noise: 38
+-----------
+eps: 51, min_samples = 9
+Clusters: 2
+Points classifed as noise: 38
+-----------
+eps: 51, min_samples = 10
+Clusters: 2
+Points classifed as noise: 41
+-----------
+eps: 51, min_samples = 11
+Clusters: 2
+Points classifed as noise: 45
+-----------
+eps: 51, min_samples = 12
+Clusters: 2
+Points classifed as noise: 48
+-----------
+eps: 51, min_samples = 13
+Clusters: 2
+Points classifed as noise: 59
+-----------
+eps: 51, min_samples = 14
+Clusters: 2
+Points classifed as noise: 61
+-----------
+eps: 61, min_samples = 5
+Clusters: 3
+Silhoutte score: 0.7569473827084977
+Points classifed as noise: 20
+-----------
+eps: 61, min_samples = 6
+Clusters: 3
+Silhoutte score: 0.7569473827084977
+Points classifed as noise: 20
+-----------
+eps: 61, min_samples = 7
+Clusters: 3
+Silhoutte score: 0.7578057060584212
+Points classifed as noise: 21
+-----------
+eps: 61, min_samples = 8
+Clusters: 2
+Points classifed as noise: 31
+-----------
+eps: 61, min_samples = 9
+Clusters: 2
+Points classifed as noise: 31
+-----------
+eps: 61, min_samples = 10
+Clusters: 2
+Points classifed as noise: 32
+-----------
+eps: 61, min_samples = 11
+Clusters: 2
+Points classifed as noise: 33
+-----------
+eps: 61, min_samples = 12
+Clusters: 2
+Points classifed as noise: 33
+-----------
+eps: 61, min_samples = 13
+Clusters: 2
+Points classifed as noise: 33
+-----------
+eps: 61, min_samples = 14
+Clusters: 2
+Points classifed as noise: 34
+-----------
+eps: 71, min_samples = 5
+Clusters: 3
+Silhoutte score: 0.7584456781142924
+Points classifed as noise: 14
+-----------
+eps: 71, min_samples = 6
+Clusters: 3
+Silhoutte score: 0.7567755279287415
+Points classifed as noise: 18
+-----------
+eps: 71, min_samples = 7
+Clusters: 3
+Silhoutte score: 0.7576340262649147
+Points classifed as noise: 19
+-----------
+eps: 71, min_samples = 8
+Clusters: 2
+Points classifed as noise: 26
+-----------
+eps: 71, min_samples = 9
+Clusters: 2
+Points classifed as noise: 26
+-----------
+eps: 71, min_samples = 10
+Clusters: 2
+Points classifed as noise: 26
+-----------
+eps: 71, min_samples = 11
+Clusters: 2
+Points classifed as noise: 26
+-----------
+eps: 71, min_samples = 12
+Clusters: 2
+Points classifed as noise: 26
+-----------
+eps: 71, min_samples = 13
+Clusters: 2
+Points classifed as noise: 28
+-----------
+eps: 71, min_samples = 14
+Clusters: 2
+Points classifed as noise: 28
+-----------
+eps: 81, min_samples = 5
+Clusters: 3
+Silhoutte score: 0.7582632078890432
+Points classifed as noise: 12
+-----------
+eps: 81, min_samples = 6
+Clusters: 3
+Silhoutte score: 0.7578016877404516
+Points classifed as noise: 13
+-----------
+eps: 81, min_samples = 7
+Clusters: 3
+Silhoutte score: 0.7565929047527393
+Points classifed as noise: 16
+-----------
+eps: 81, min_samples = 8
+Clusters: 2
+Points classifed as noise: 24
+-----------
+eps: 81, min_samples = 9
+Clusters: 2
+Points classifed as noise: 24
+-----------
+eps: 81, min_samples = 10
+Clusters: 2
+Points classifed as noise: 24
+-----------
+eps: 81, min_samples = 11
+Clusters: 2
+Points classifed as noise: 24
+-----------
+eps: 81, min_samples = 12
+Clusters: 2
+Points classifed as noise: 26
+-----------
+eps: 81, min_samples = 13
+Clusters: 2
+Points classifed as noise: 26
+-----------
+eps: 81, min_samples = 14
+Clusters: 2
+Points classifed as noise: 26
+-----------
+eps: 91, min_samples = 5
+Clusters: 3
+Silhoutte score: 0.7581213435347471
+Points classifed as noise: 11
+-----------
+eps: 91, min_samples = 6
+Clusters: 3
+Silhoutte score: 0.7581213435347471
+Points classifed as noise: 11
+-----------
+eps: 91, min_samples = 7
+Clusters: 3
+Silhoutte score: 0.7581213435347471
+Points classifed as noise: 11
+-----------
+eps: 91, min_samples = 8
+Clusters: 3
+Silhoutte score: 0.758930440669978
+Points classifed as noise: 15
+-----------
+eps: 91, min_samples = 9
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 91, min_samples = 10
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 91, min_samples = 11
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 91, min_samples = 12
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 91, min_samples = 13
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 91, min_samples = 14
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 101, min_samples = 5
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 101, min_samples = 6
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 101, min_samples = 7
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 101, min_samples = 8
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 101, min_samples = 9
+Clusters: 3
+Silhoutte score: 0.758856580558807
+Points classifed as noise: 13
+-----------
+eps: 101, min_samples = 10
+Clusters: 2
+Points classifed as noise: 22
+-----------
+eps: 101, min_samples = 11
+Clusters: 2
+Points classifed as noise: 22
+-----------
+eps: 101, min_samples = 12
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 101, min_samples = 13
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 101, min_samples = 14
+Clusters: 2
+Points classifed as noise: 23
+-----------
+eps: 111, min_samples = 5
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 111, min_samples = 6
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 111, min_samples = 7
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 111, min_samples = 8
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 111, min_samples = 9
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 111, min_samples = 10
+Clusters: 3
+Silhoutte score: 0.7579849870721456
+Points classifed as noise: 10
+-----------
+eps: 111, min_samples = 11
+Clusters: 2
+Points classifed as noise: 22
+-----------
+eps: 111, min_samples = 12
+Clusters: 2
+Points classifed as noise: 22
+-----------
+eps: 111, min_samples = 13
+Clusters: 2
+Points classifed as noise: 22
+-----------
+eps: 111, min_samples = 14
+Clusters: 2
+Points classifed as noise: 22
